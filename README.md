@@ -156,6 +156,9 @@ Here we can see a bunch of different information like successful and failed log 
 
 <b>We've successfully configured Remote Desktop for non-administrative users, automated user creation with PowerShell, and managed group policies. Additionally, we covered account lockouts and log monitoring to simulate a real-life IT environment!  </b>
 <br />
+
+---
+"Thank you 😊 for taking the time to explore 🔎 this project, it's great to see someone so engaged and curious 💡. Connect with me on LinkedIn 🤝 and let's see what we can build together ✨."
 <br />
 </p>
 
