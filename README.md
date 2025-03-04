@@ -158,7 +158,7 @@ Here we can see a bunch of different information like successful and failed log 
 <br />
 
 ---
-"Thank you 😊 for taking the time to explore 🔎 this project, it's great to see someone so engaged and curious 💡. Connect with me on LinkedIn 🤝 and let's see what we can build together ✨."
+Thank you 😊 for taking the time to explore 🔎 this project, it's great to see someone so engaged and curious 💡. Connect with me on LinkedIn 🤝 and let's see what we can build together ✨.
 <br />
 </p>
 
